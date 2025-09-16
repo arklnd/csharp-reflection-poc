@@ -5,11 +5,11 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{827E0CD3-B72D-47B6-A68D-7590B98EB39B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-reflection-poc", "src\csharp-reflection-poc\csharp-reflection-poc.csproj", "{4857B5D3-5E55-413D-BD43-22F26E5D20BB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpReflectionPoc", "src\CsharpReflectionPoc\CsharpReflectionPoc.csproj", "{4857B5D3-5E55-413D-BD43-22F26E5D20BB}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{0AB3BF05-4346-4AA6-1389-037BE0695223}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-reflection-poc.Tests", "tests\csharp-reflection-poc.Tests\csharp-reflection-poc.Tests.csproj", "{0F6F0766-1B8A-421F-B6B8-7E50C34BC09C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpReflectionPoc.Tests", "tests\CsharpReflectionPoc.Tests\CsharpReflectionPoc.Tests.csproj", "{0F6F0766-1B8A-421F-B6B8-7E50C34BC09C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

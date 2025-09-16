@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\csharp-reflection-poc\csharp-reflection-poc.csproj" />
+    <ProjectReference Include="..\..\src\CsharpReflectionPoc\CsharpReflectionPoc.csproj" />
   </ItemGroup>
 
 </Project>
